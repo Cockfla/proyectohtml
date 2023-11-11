@@ -97,7 +97,8 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "lint":"npm link # Symlink a package folder"
+    "lint":"npm link # Symlink a package folder",
+    "prettier":"prettier --write ."
   },
   "keywords": [],
   "author": "",
